@@ -6,3 +6,5 @@ Go to jsbin and create an account so that you can save the work you do.
 
 1. [A simple calculator problem](https://jsbin.com/jubipex/edit?html,js,output)
 2. [An ugly solution](https://jsbin.com/lanisel/1/edit?html,js,output)
+3. [A better solution](https://jsbin.com/yebipav/edit?html,js,output)
+
