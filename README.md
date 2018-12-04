@@ -27,7 +27,7 @@ TODO
 
 ### if, else, switch
 
-TODO
+1. [Messy if-statements](https://jsbin.com/fuqowun/1/edit?html,js,output)
 
 ### for, foreach, while
 
