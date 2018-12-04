@@ -24,3 +24,7 @@ TODO
 ### if, else, switch
 
 TODO
+
+### for, foreach, while
+
+[Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
