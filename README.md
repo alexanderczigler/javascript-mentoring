@@ -15,10 +15,6 @@ Go to [JSBin](http://jsbin.com) and create an account so that you can save the w
 
 TODO
 
-### Arrays and Objects
-
-TODO
-
 ## B) Flow control
 
 ### functions
@@ -32,3 +28,7 @@ TODO
 ### for, foreach, while
 
 1. [Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
+
+## C) Object and Array
+
+1. https://jsbin.com/ducicuk/1/edit?html,js,output
