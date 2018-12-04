@@ -31,4 +31,4 @@ TODO
 
 ### for, foreach, while
 
-[Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
+1. [Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
