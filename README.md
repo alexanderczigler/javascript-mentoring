@@ -21,6 +21,10 @@ TODO
 
 ## B) Flow control
 
+### functions
+
+1. [A simple example](https://jsbin.com/jiloruf/edit?html,js,output)
+
 ### if, else, switch
 
 TODO
