@@ -24,7 +24,8 @@ TODO
 ### if, else, switch
 
 1. [Messy if-statements](https://jsbin.com/fuqowun/edit?html,js,output)
-2. [Else If](https://jsbin.com/wujeviw/edit?html,js,output)
+2. [Rewrite using Else If](https://jsbin.com/wujeviw/edit?html,js,output)
+3. [Rewrite using Switch](https://jsbin.com/kajiqol/1/edit?html,js,output)
 
 ### for, foreach, while
 
