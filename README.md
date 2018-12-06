@@ -26,6 +26,7 @@ TODO
 1. [Messy if-statements](https://jsbin.com/fuqowun/edit?html,js,output)
 2. [Rewrite using Else If](https://jsbin.com/wujeviw/edit?html,js,output)
 3. [Rewrite using Switch](https://jsbin.com/kajiqol/1/edit?html,js,output)
+4. [A bulky solution for adding kitten support](https://jsbin.com/pasake/edit?html,js,output)
 
 ### for, foreach, while
 
