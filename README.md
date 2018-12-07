@@ -32,6 +32,10 @@ TODO
 
 1. [Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
 
+### try catch
+
+TODO
+
 ## C) Object and Array
 
 1. [Cat search with Array](https://jsbin.com/papawij/edit?html,js,output)
