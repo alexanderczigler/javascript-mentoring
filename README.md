@@ -34,4 +34,4 @@ TODO
 
 ## C) Object and Array
 
-1. https://jsbin.com/ducicuk/1/edit?html,js,output
+1. [Cat search with Array](https://jsbin.com/papawij/edit?html,js,output)
