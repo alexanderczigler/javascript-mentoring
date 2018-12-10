@@ -40,3 +40,7 @@ TODO
 
 1. [Cat search with Array](https://jsbin.com/papawij/edit?html,js,output)
 2. [Cat search with Object](https://jsbin.com/diboxaf/edit?html,js,output)
+
+## D) Form interaction
+
+1. [Radio buttons](https://jsbin.com/juwigic/edit?html,js,output)
