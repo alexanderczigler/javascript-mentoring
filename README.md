@@ -43,5 +43,5 @@ TODO
 
 ## D) Form interaction
 
-1. [Radio buttons](https://jsbin.com/juwigic/edit?html,js,output)
-2. [Form validation](https://jsbin.com/yigubas/edit?html,js,output)
+1. [v1 - radio buttons](https://jsbin.com/juwigic/edit?html,js,output)
+2. [v2 - basic form validation](https://jsbin.com/yigubas/edit?html,js,output)
