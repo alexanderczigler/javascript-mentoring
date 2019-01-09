@@ -31,6 +31,7 @@ TODO
 ### for, foreach, while
 
 1. [Nested for loops](https://jsbin.com/xucabeq/edit?html,js,console,output)
+2. [For loop and substring](https://jsbin.com/viyuxag/1/edit?html,js,output)
 
 ### try catch
 
